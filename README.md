@@ -1,5 +1,10 @@
 <img src="./assets/mashgitcover.png" width="100%" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;AI-Assisted+Engineering;Building+Ideas+Into+Products)](https://git.io/typing-svg)
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;AI-Assisted+Engineering;Turning+Ideas+Into+Products"
+    alt="Typing SVG"
+  />
+</p>
 
 # Hi, I'm Mosharof Hossain 👋
 
