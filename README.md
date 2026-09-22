@@ -1,20 +1,17 @@
 <img src="./assets/mashgitcover.png" width="100%" />
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;AI-Assisted+Engineering;Turning+Ideas+Into+Products"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;AI-Enhanced+Development;Turning+Ideas+Into+Products"
     alt="Typing SVG"
   />
 </p>
 
 # Hi, I'm Mosharof Hossain 👋
 
-### Full-Stack Web Developer | JavaScript & TypeScript | Next.js | Node.js | AI-Assisted Development
+### Full-Stack Web Developer | JavaScript & TypeScript | Next.js | Node.js | AI-Enhanced Development
 
 I build modern, scalable and user-focused web applications using
 JavaScript/TypeScript across the frontend, backend and database layers.
-
-I am focused on becoming a strong Full-Stack Web Developer with a
-modern AI-assisted engineering workflow.
 
 ---
 
@@ -31,9 +28,20 @@ I work across the full web development stack — from creating responsive interf
 * **Database:** MongoDB, Mongoose
 * **Authentication:** Better Auth, Authentication & Authorization
 * **Tools:** Git, GitHub, VS Code, Postman
-* **AI Engineering:** AI-assisted coding, debugging, refactoring, testing, documentation, and development workflows
+* **AI Engineering:** AI-enhanced coding, debugging, refactoring, testing, documentation, and development workflows
 
-### 🤖 AI-Assisted Development
+### 🤖 AI-Enhanced Development
+
+- AI-powered debugging  
+- Code generation  
+- Code refactoring  
+- Documentation  
+- Testing assistance  
+- Problem solving  
+- Reviewing code
+- Improving development speed
+- Writing tests
+- Exploring solutions
 
 I use AI as an **engineering tool**, not as a replacement for understanding.
 
@@ -53,17 +61,6 @@ My long-term goal is to become a strong **Full-Stack Engineer and Product Builde
 
 > **Learn. Build. Solve. Improve. Repeat.**
 
-
-## AI-Assisted Development
-
-AI-assisted coding  
-AI-powered debugging  
-Code generation  
-Code refactoring  
-Documentation  
-Testing assistance  
-Problem solving  
-AI-assisted development workflow
 
 ---
 
@@ -91,7 +88,7 @@ Deployment
 
 # 🔐 Authentication & Security
 
-I am learning and building applications with:
+I am building applications with:
 
 - Authentication
 - Authorization
@@ -100,26 +97,6 @@ I am learning and building applications with:
 - User roles
 - Secure API design
 - Better Auth
-
----
-
-# 🤖 AI-Assisted Development
-
-AI is part of my development workflow, not a replacement for engineering fundamentals.
-
-I use AI to help with:
-
-- Understanding unfamiliar code
-- Generating initial implementations
-- Debugging
-- Refactoring
-- Writing tests
-- Documentation
-- Exploring solutions
-- Reviewing code
-- Improving development speed
-
-My goal is to understand the code I ship and use AI as an engineering tool.
 
 ---
 
