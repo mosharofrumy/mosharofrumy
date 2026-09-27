@@ -22,7 +22,7 @@ I’m a **Full-Stack Web Developer** passionate about building modern, scalable,
 <div align="center">
 
   <p align="center">
-    <a href="mailto:your.mosharofrumy@gmail.com">📧 Email</a> •
+    <a href="mosharofrumy@gmail.com">📧 Email</a> •
     <a href="https://www.linkedin.com/in/hmmosharof/">💼 LinkedIn</a>
   </p>
 
@@ -59,21 +59,6 @@ I’m a **Full-Stack Web Developer** passionate about building modern, scalable,
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
 
 ---
 
