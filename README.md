@@ -8,9 +8,6 @@
 
 <div align="center">
 
-  <!-- Profile Image -->
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/profile.jpg" alt="Mosharof Hossain" width="180" height="180" style="border-radius: 50%; border: 3px solid #007ACC;" />
-
   # 👋 Hi, I'm Mosharof Hossain
   ### 🚀 Full Stack Web Developer | AI-Enhanced & Web Engineering Mindset
 
